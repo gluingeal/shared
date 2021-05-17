@@ -1,5 +1,7 @@
 # Pracovní list - Checklist
 
+# https://iconarchive.com/show/100-flat-icons-by-graphicloads/check-icon.html
+
 ```python
 ## 1 Příprava
 import tkinter
